@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\helenas\\Documents\\GitHub\\POO\\C#\\ProjetoScreenSound\\ProjetoScreenSound\\ProjetoScreenSound.csproj",
-      "projectName": "ProjetoScreenSound",
-      "projectPath": "C:\\Users\\helenas\\Documents\\GitHub\\POO\\C#\\ProjetoScreenSound\\ProjetoScreenSound\\ProjetoScreenSound.csproj",
+      "projectUniqueName": "C:\\Users\\helenas\\Documents\\GitHub\\POO\\C#\\ByteBankAtendimento\\ByteBankAtendimento.csproj",
+      "projectName": "ByteBankAtendimento",
+      "projectPath": "C:\\Users\\helenas\\Documents\\GitHub\\POO\\C#\\ByteBankAtendimento\\ByteBankAtendimento.csproj",
       "packagesPath": "C:\\Users\\helenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\helenas\\Documents\\GitHub\\POO\\C#\\ProjetoScreenSound\\ProjetoScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\helenas\\Documents\\GitHub\\POO\\C#\\ByteBankAtendimento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

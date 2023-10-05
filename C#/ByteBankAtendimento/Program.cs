@@ -1,4 +1,4 @@
-﻿namespace ProjetoScreenSound
+﻿namespace ByteBankAtendimento
 {
     internal class Program
     {
