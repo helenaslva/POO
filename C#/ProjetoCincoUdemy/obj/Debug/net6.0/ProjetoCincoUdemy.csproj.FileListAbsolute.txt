@@ -1,0 +1,14 @@
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\bin\Debug\net6.0\ProjetoCincoUdemy.exe
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\bin\Debug\net6.0\ProjetoCincoUdemy.deps.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\bin\Debug\net6.0\ProjetoCincoUdemy.runtimeconfig.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\bin\Debug\net6.0\ProjetoCincoUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\bin\Debug\net6.0\ProjetoCincoUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ProjetoCincoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ProjetoCincoUdemy.AssemblyInfoInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ProjetoCincoUdemy.AssemblyInfo.cs
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ProjetoCincoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ProjetoCincoUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\refint\ProjetoCincoUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ProjetoCincoUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ProjetoCincoUdemy.genruntimeconfig.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoCincoUdemy\obj\Debug\net6.0\ref\ProjetoCincoUdemy.dll
