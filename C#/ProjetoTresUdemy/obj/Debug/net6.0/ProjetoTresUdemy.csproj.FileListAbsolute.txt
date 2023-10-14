@@ -1,0 +1,14 @@
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\bin\Debug\net6.0\ProjetoTresUdemy.exe
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\bin\Debug\net6.0\ProjetoTresUdemy.deps.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\bin\Debug\net6.0\ProjetoTresUdemy.runtimeconfig.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\bin\Debug\net6.0\ProjetoTresUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\bin\Debug\net6.0\ProjetoTresUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ProjetoTresUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ProjetoTresUdemy.AssemblyInfoInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ProjetoTresUdemy.AssemblyInfo.cs
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ProjetoTresUdemy.csproj.CoreCompileInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ProjetoTresUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\refint\ProjetoTresUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ProjetoTresUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ProjetoTresUdemy.genruntimeconfig.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoTresUdemy\obj\Debug\net6.0\ref\ProjetoTresUdemy.dll

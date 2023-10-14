@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoUdemyUm", "ProjetoUd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoDoisUdemy", "..\ProjetoDoisUdemy\ProjetoDoisUdemy.csproj", "{A85E65F3-BA90-491F-883B-305E12D999F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTresUdemy", "..\ProjetoTresUdemy\ProjetoTresUdemy.csproj", "{E88518DD-4A0F-4115-90D7-DB3A82CC64E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoQuatroUdemy", "..\ProjetoQuatroUdemy\ProjetoQuatroUdemy.csproj", "{10D17D2D-C509-4BA9-8BB9-343AAA3450BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A85E65F3-BA90-491F-883B-305E12D999F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A85E65F3-BA90-491F-883B-305E12D999F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A85E65F3-BA90-491F-883B-305E12D999F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88518DD-4A0F-4115-90D7-DB3A82CC64E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88518DD-4A0F-4115-90D7-DB3A82CC64E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88518DD-4A0F-4115-90D7-DB3A82CC64E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88518DD-4A0F-4115-90D7-DB3A82CC64E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D17D2D-C509-4BA9-8BB9-343AAA3450BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D17D2D-C509-4BA9-8BB9-343AAA3450BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D17D2D-C509-4BA9-8BB9-343AAA3450BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D17D2D-C509-4BA9-8BB9-343AAA3450BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

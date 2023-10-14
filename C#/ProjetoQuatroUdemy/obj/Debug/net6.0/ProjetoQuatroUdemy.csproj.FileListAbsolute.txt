@@ -1,0 +1,14 @@
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\bin\Debug\net6.0\ProjetoQuatroUdemy.exe
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\bin\Debug\net6.0\ProjetoQuatroUdemy.deps.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\bin\Debug\net6.0\ProjetoQuatroUdemy.runtimeconfig.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\bin\Debug\net6.0\ProjetoQuatroUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\bin\Debug\net6.0\ProjetoQuatroUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ProjetoQuatroUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ProjetoQuatroUdemy.AssemblyInfoInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ProjetoQuatroUdemy.AssemblyInfo.cs
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ProjetoQuatroUdemy.csproj.CoreCompileInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ProjetoQuatroUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\refint\ProjetoQuatroUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ProjetoQuatroUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ProjetoQuatroUdemy.genruntimeconfig.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoQuatroUdemy\obj\Debug\net6.0\ref\ProjetoQuatroUdemy.dll
