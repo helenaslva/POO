@@ -1,0 +1,14 @@
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\bin\Debug\net6.0\ProjetoUdemyUm.exe
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\bin\Debug\net6.0\ProjetoUdemyUm.deps.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\bin\Debug\net6.0\ProjetoUdemyUm.runtimeconfig.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\bin\Debug\net6.0\ProjetoUdemyUm.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\bin\Debug\net6.0\ProjetoUdemyUm.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ProjetoUdemyUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ProjetoUdemyUm.AssemblyInfoInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ProjetoUdemyUm.AssemblyInfo.cs
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ProjetoUdemyUm.csproj.CoreCompileInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ProjetoUdemyUm.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\refint\ProjetoUdemyUm.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ProjetoUdemyUm.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ProjetoUdemyUm.genruntimeconfig.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoUdemyUm\obj\Debug\net6.0\ref\ProjetoUdemyUm.dll

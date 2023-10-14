@@ -1,0 +1,14 @@
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\bin\Debug\net6.0\ProjetoDoisUdemy.exe
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\bin\Debug\net6.0\ProjetoDoisUdemy.deps.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\bin\Debug\net6.0\ProjetoDoisUdemy.runtimeconfig.json
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\bin\Debug\net6.0\ProjetoDoisUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\bin\Debug\net6.0\ProjetoDoisUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ProjetoDoisUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ProjetoDoisUdemy.AssemblyInfoInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ProjetoDoisUdemy.AssemblyInfo.cs
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ProjetoDoisUdemy.csproj.CoreCompileInputs.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ProjetoDoisUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\refint\ProjetoDoisUdemy.dll
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ProjetoDoisUdemy.pdb
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ProjetoDoisUdemy.genruntimeconfig.cache
+C:\Users\helenas\Documents\GitHub\POO\C#\ProjetoDoisUdemy\obj\Debug\net6.0\ref\ProjetoDoisUdemy.dll
